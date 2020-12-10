@@ -1,4 +1,4 @@
 # python
 
-Simple python games for trainig programming skills
+Simple python games and algorithms for trainig programming skills
 
